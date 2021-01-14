@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.formclass {
+  bottom: 0;
+  z-index: 1;
+  position: fixed;
+  padding: 5px;
+  width: 100%;
+
+  bottom: 10px;
+  background-color: beige;
+  border-radius: 15px;
+}
+.formcontrol {
+}
